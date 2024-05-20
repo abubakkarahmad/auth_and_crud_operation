@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "893333921172",
+    "project_id": "funny-image-f2fcc",
+    "storage_bucket": "funny-image-f2fcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893333921172:android:4183e03798b10087d94381",
+        "android_client_info": {
+          "package_name": "app.techvalley.funny_image"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY7hmwVEnQWdfDrtb55eb97v-TypLBzBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893333921172:android:aba16acb07417b45d94381",
+        "android_client_info": {
+          "package_name": "com.bakker.auth_with_provider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY7hmwVEnQWdfDrtb55eb97v-TypLBzBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

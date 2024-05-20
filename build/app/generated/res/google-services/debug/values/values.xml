@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">893333921172</string>
+    <string name="google_api_key" translatable="false">AIzaSyAY7hmwVEnQWdfDrtb55eb97v-TypLBzBo</string>
+    <string name="google_app_id" translatable="false">1:893333921172:android:aba16acb07417b45d94381</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAY7hmwVEnQWdfDrtb55eb97v-TypLBzBo</string>
+    <string name="google_storage_bucket" translatable="false">funny-image-f2fcc.appspot.com</string>
+    <string name="project_id" translatable="false">funny-image-f2fcc</string>
+</resources>
